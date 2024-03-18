@@ -1,0 +1,42 @@
+@media (max-width: 430px) {
+  body {
+    padding: 0 20px;
+  }
+  .pedido {
+    min-width: 300px;
+  }
+  .pedido h1 {
+    font-size: 30px;
+    color: #fff;
+  }
+
+  /* section do "sim" */
+
+  .aceitado {
+    width: 350px;
+  }
+  .aceitado p {
+    font-size: 20px;
+  }
+}
+@media (max-width: 415px) {
+  body {
+    padding: 0 20px;
+  }
+  .pedido {
+    min-width: 350px;
+  }
+  .pedido h1 {
+    font-size: 25px;
+    color: #fff;
+  }
+
+  /* section do "sim" */
+
+  .aceitado {
+    width: 350px;
+  }
+  .aceitado p {
+    font-size: 20px;
+  }
+}
